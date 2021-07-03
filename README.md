@@ -1,3 +1,1 @@
-Researcher Spot
-A database of graphical abstracts of research papers
-Get ideas for your next research paper's TOC graphic
+A database of graphical abstracts of research papers to get ideas for research paper's TOC graphic
